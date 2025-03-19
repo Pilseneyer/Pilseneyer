@@ -1,4 +1,8 @@
-## Hi there 👋
+## Presentación
+Soy un estudiante de la carrera Analista Programador de Inacap. Este es mi primer repositorio.
+
+### Aprendiendo:
+- Muchas cosas :PP
 
 <!--
 **Pilseneyer/Pilseneyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
